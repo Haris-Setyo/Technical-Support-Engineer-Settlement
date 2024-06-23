@@ -1,0 +1,6 @@
+Stop dahulu dibagian transaksi dan beri info ke pelanggan bahwa sendang ada maintance
+Lakukaan diskus antar team
+tanyakan masalah terjadi dimana, dijam berapa dan apakah ada aktifitas lain hari itu
+step apa saja yang sudah dilakukan untuk mengatasi itu isu tersebut
+tanyakan error apa yang masih muncul di log
+diskus dengan team untuk mencari solusinya
