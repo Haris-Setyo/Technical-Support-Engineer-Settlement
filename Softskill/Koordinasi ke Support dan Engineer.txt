@@ -1,5 +1,5 @@
 Lakukaan diskus dengan team
-Stop dan tutup dahulu dibagian transaksi dan beri info ke pelanggan bahwa sendang ada maintance
+Stop dan tutup dahulu dibagian transaksi dan beri info ke pelanggan bahwa sendang ada maintenance
 tanyakan masalah terjadi dimana, dijam berapa dan apakah ada aktifitas lain hari itu
 step apa saja yang sudah dilakukan untuk mengatasi itu isu tersebut
 tanyakan error apa yang masih muncul di log
