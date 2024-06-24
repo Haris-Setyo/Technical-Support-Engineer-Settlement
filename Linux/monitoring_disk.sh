@@ -1,8 +1,8 @@
 #!/bin/sh
 # Purpose: Monitor Linux disk space and send an Telegram_Bot alert to Admin
-TOKEN="7467803964:AAGO52wWiPnmCHMoDuC1TZm5zcDpz-DWQ7o" # Token bot
-CHAT_ID="722009887" # Chat User
-ALERT=12 # alert level 
+TOKEN="7467803964:AAGO52wWiPnmCHMoDuC1TZm5zcDpz-DWQ7oKjkasd123" # Token bot
+CHAT_ID="XXXXXXXXX" # Chat User
+ALERT=80 # alert level 
 df -H | grep -vE '^Filesystem|tmpfs|cdrom' | awk '{ print $5 " " $1 " " $4}' | while read -r output;
 do
   echo "$output"
