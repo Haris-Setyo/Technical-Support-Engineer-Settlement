@@ -1,6 +1,7 @@
-Stop dahulu dibagian transaksi dan beri info ke pelanggan bahwa sendang ada maintance
-Lakukaan diskus antar team
+Lakukaan diskus dengan team
+Stop dan tutup dahulu dibagian transaksi dan beri info ke pelanggan bahwa sendang ada maintance
 tanyakan masalah terjadi dimana, dijam berapa dan apakah ada aktifitas lain hari itu
 step apa saja yang sudah dilakukan untuk mengatasi itu isu tersebut
 tanyakan error apa yang masih muncul di log
-diskus dengan team untuk mencari solusinya
+cari isu dan melakukan troubleshoot yang sesuai
+setelah solve tetap monitoring 24 jam, hingga isu itu tidak dapat muncul kembali
